@@ -1,0 +1,40 @@
+body{
+    background-color: #f0f0f0;
+}
+
+article{
+    width:250px;
+
+}
+
+article img{
+    width:100%;
+
+}
+
+section h2 {
+
+    font-size: 28px;
+}
+
+section h3 {
+
+    color: #A66F7F;
+}
+
+body{
+    background-color: #F8F3F1;
+}
+
+body{
+    background-color: #fff8fa;
+    background-image: url('imagenes/fondo-flores.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+button{
+    margin-bottom: 30px;
+}
