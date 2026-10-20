@@ -30,11 +30,16 @@ body{
     background-color: #fff8fa;
     background-image: url('imagenes/fondo-flores.jpeg');
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
 button{
+    
     margin-bottom: 30px;
+    padding: 12px 30px;
+}
+
+
 }
